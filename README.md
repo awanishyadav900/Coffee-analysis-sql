@@ -68,7 +68,7 @@ The project contains:
 
 . Identify top 3 cities with the highest sales, rent, customer base, and estimated consumers.
 
-# 🏙️ City Table (Important Feature)
+# 🏙️ City Table 
 
 . The city table enriches the analysis by providing:
 
